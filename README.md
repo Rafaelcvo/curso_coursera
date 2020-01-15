@@ -1,2 +1,2 @@
-# curso_coursera
+# Curso Coursera
 Cursos na plataforma de ensino Coursera
